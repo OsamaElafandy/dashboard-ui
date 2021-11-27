@@ -14,4 +14,4 @@ This project is a dashboard ui .
 
 ### Web
 
-<a href="url"><img src="https://i.ibb.co/9sxK9Rs/dashboard-macbookpro.png"  height="600" width="500" ></a>
+<a href="url"><img src="https://i.ibb.co/6JWxPP5/dashboard-imac.png"  height="600" width="500" ></a>
