@@ -9,11 +9,8 @@ This project is a dashboard ui .
 <a href="https://i.ibb.co/Wk8yfmz/mob1-google.png"><img src="https://i.ibb.co/Wk8yfmz/mob1-google.png"  height="60%" width="45%" ></a>
 <a href="url"><img src="https://i.ibb.co/Pwkr7bG/mob2-google.png)"  height="60%" width="45%" ></a>
 <a href="url"><img src="https://i.ibb.co/cXG1SpH/mob4-google.png"  height="60%" width="45%" ></a>
-<a href="https://i.ibb.co/cXG1SpH/mob4-google.png"><img src="https://i.ibb.co/cXG1SpH/mob4-google.png"   height="60%" width="45%" ></a>
+<img src="https://i.ibb.co/cXG1SpH/mob4-google.png"   height="60%" width="45%" >
 
-<div>
-<img src="https://i.ibb.co/cXG1SpH/mob4-google.png" width="500"/>
-</div>
 
 
 ### Web
