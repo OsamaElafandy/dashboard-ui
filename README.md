@@ -12,4 +12,4 @@ This project is a dashboard ui .
 ![alt text](https://i.ibb.co/X7NtqSb/mob3.png)
 
 ### Web
-![alt text](https://i.ibb.co/z6PsDV6/dashboard-ui.png)
+![alt text](https://i.ibb.co/6JWxPP5/dashboard-imac.png)
