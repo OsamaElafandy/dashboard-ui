@@ -11,5 +11,5 @@ This project is a dashboard ui .
 ![alt text](https://i.ibb.co/7SPjq8m/mob4.png)
 ![alt text](https://i.ibb.co/X7NtqSb/mob3.png)
 
-### Web
+## Web
 ![alt text](https://i.ibb.co/9sxK9Rs/dashboard-macbookpro.png)
