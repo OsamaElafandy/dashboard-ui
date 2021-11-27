@@ -6,11 +6,12 @@ This project is a dashboard ui .
 
 ## Photos
 ### Mobile
-<a href="url"><img src="https://i.ibb.co/Wk8yfmz/mob1-google.png" align="left" height="600" width="400" ></a>
-![alt text](https://i.ibb.co/Wk8yfmz/mob1-google.png) 
-![alt text](https://i.ibb.co/Pwkr7bG/mob2-google.png)
-![alt text](https://i.ibb.co/cXG1SpH/mob4-google.png)
-![alt text](https://i.ibb.co/cXG1SpH/mob4-google.png)
+<a href="url"><img src="https://i.ibb.co/Wk8yfmz/mob1-google.png" align="left" height="650" width="400" ></a>
+<a href="url"><img src="https://i.ibb.co/Pwkr7bG/mob2-google.png)" align="left" height="650" width="400" ></a>
+<a href="url"><img src="https://i.ibb.co/cXG1SpH/mob4-google.png" align="left" height="650" width="400" ></a>
+<a href="url"><img src="https://i.ibb.co/cXG1SpH/mob4-google.png" align="left" height="650" width="400" ></a>
+
 
 ## Web
-![alt text](https://i.ibb.co/9sxK9Rs/dashboard-macbookpro.png)
+
+<a href="url"><img src="https://i.ibb.co/9sxK9Rs/dashboard-macbookpro.png"  height="650" width="400" ></a>
