@@ -6,13 +6,13 @@ This project is a dashboard ui .
 
 ## Photos
 ### Mobile
-<img src="https://i.ibb.co/Wk8yfmz/mob1-google.png"  height="60%" width="45%" >
-<img src="https://i.ibb.co/Pwkr7bG/mob2-google.png)"  height="60%" width="45%" >
-<img src="https://i.ibb.co/cXG1SpH/mob4-google.png"  height="60%" width="45%" >
-<img src="https://i.ibb.co/cXG1SpH/mob4-google.png"   height="60%" width="45%" >
+<img src="https://i.ibb.co/Wk8yfmz/mob1-google.png"  height="60%" width="45%" />
+<img src="https://i.ibb.co/Pwkr7bG/mob2-google.png)"  height="60%" width="45%" />
+<img src="https://i.ibb.co/cXG1SpH/mob4-google.png"  height="60%" width="45%" />
+<img src="https://i.ibb.co/cXG1SpH/mob4-google.png"   height="60%" width="45%"/ >
 
 
 
 ### Web
 
-<img src="https://i.ibb.co/6JWxPP5/dashboard-imac.png"  height="40%" width="60%" >
+<img src="https://i.ibb.co/6JWxPP5/dashboard-imac.png"  height="40%" width="60%" />
